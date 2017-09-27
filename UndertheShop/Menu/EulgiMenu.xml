@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu android:id="@+id/eulgi_menu" xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/eulgiro3"
+           android:title="을지로(3구역)"/>
+  <item android:id="@+id/eulgiro4"
+           android:title="을지로(4구역)"/>
+  <item android:id="@+id/eulgientrance"
+        android:title="을지입구" />
+  <item android:id="@+id/cityhallsquare"
+        android:title="시청광장" />
+  <item android:id="@+id/inhyeon"
+        android:title="인현" />
+  <item android:id="@+id/shindang"
+        android:title="신당" />
+</menu>

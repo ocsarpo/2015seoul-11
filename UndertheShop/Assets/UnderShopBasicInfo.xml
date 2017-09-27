@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UnderShopBasicInfomation>
+  <Ulgiro3>
+    <shop_name>을지로(3구역)_지하 쇼핑센터</shop_name>
+    <shop_address>2구역) 중구 을지로 지하88_3구역) 중구 을지로 지하131_4구역) 중구 을지로 지하218</shop_address>
+    <shop_scale>면적 20,334㎡ / 점포수 213개</shop_scale>
+    <shop_administration>(주)대현프리몰</shop_administration>
+    <shop_operation>개 장 : 09:00 ~ 22:00,휴 점 일 : 일요일_국경일(일부개점)_통로개방 - (통로개방 : 주중 05:00 ~ 익일 01:00,주말/휴일 05:00 ~ 24:00</shop_operation>
+    <shop_industry>(주)대현프리몰</shop_industry>
+    <shop_surroundings>지하철 을지로 3가역부터 동대문 운동장 역에 이르는 서울의 중심부를 관통하고 있는 을지로 지하도상가에는 인쇄, 광고 및 판촉물 전문 상가가 오래전부터 자리잡고 있습니다.</shop_surroundings>
+    <shop_direction>2호선 을지로 3가역, 4가역, 동대문역사문화공원역_3호선 을지로 3가역 (을지로 3가 ⇒ 6가 방향)_4,5호선 동대문역사문화공원역 (을지로6가 ⇒ 3가방향)</shop_direction>
+  </Ulgiro3>
+
+  <Ulgiro4>
+    <shop_name>을지로(4구역)_지하 쇼핑센터</shop_name>
+    <shop_address>2구역) 중구 을지로 지하88_3구역) 중구 을지로 지하131_4구역) 중구 을지로 지하218</shop_address>
+    <shop_scale>면적 20,334㎡ / 점포수 213개</shop_scale>
+    <shop_administration>(주)대현프리몰</shop_administration>
+    <shop_operation>개 장 : 09:00 ~ 22:00,휴 점 일 : 일요일_국경일(일부개점)_통로개방 - (통로개방 : 주중 05:00 ~ 익일 01:00,주말/휴일 05:00 ~ 24:00</shop_operation>
+    <shop_industry>(주)대현프리몰</shop_industry>
+    <shop_surroundings>지하철 을지로 3가역부터 동대문 운동장 역에 이르는 서울의 중심부를 관통하고 있는 을지로 지하도상가에는 인쇄, 광고 및 판촉물 전문 상가가 오래전부터 자리잡고 있습니다.</shop_surroundings>
+    <shop_direction>2호선 을지로 3가역, 4가역, 동대문역사문화공원역_3호선 을지로 3가역 (을지로 3가 ⇒ 6가 방향)_4,5호선 동대문역사문화공원역 (을지로6가 ⇒ 3가방향)</shop_direction>
+  </Ulgiro4>
+
+
+
+  <UlgiEnterance>
+    <shop_name>을지입구_지하 쇼핑센터</shop_name>
+    <shop_address>중구 을지로 지하58</shop_address>
+    <shop_scale>면적 2,271㎡ / 점포수 63개</shop_scale>
+    <shop_administration>(주)을지입구쇼핑센터</shop_administration>
+    <shop_operation>개 장 : 09:00 ~ 22:00_휴 점 일 : 일요일, 국경일(일부개점)_통로개방 : 주중 05:00 ~ 익일 01:00 주말/휴일 05:00 ~ 24:00</shop_operation>
+    <shop_industry>(주)을지입구쇼핑센터</shop_industry>
+    <shop_surroundings>지하철 을지로 3가역부터 동대문 운동장 역에 이르는 서울의 중심부를 관통하고 있는 을지로 지하도상가에는 인쇄, 광고 및 판촉물 전문 상가가 오래전부터 자리잡고 있습니다.</shop_surroundings>
+    <shop_direction>2호선 을지입구역 앞쪽(성수방면)게이트 (을지로 2가방향 약 50m)</shop_direction>
+  </UlgiEnterance>
+
+  <CityHall>
+    <shop_name>시청광장_지하 쇼핑센터</shop_name>
+    <shop_address>중구 을지로 지하12</shop_address>
+    <shop_scale>면적 4,871㎡ / 점포수 49개</shop_scale>
+    <shop_administration>(주)대현프리몰</shop_administration>
+    <shop_operation>개장 - 09:00 ~ 22:00_휴점일 - 일요일, 국경일 (일부 점포는 개점)_통로개방 - (주중)05:00 ~ 익일 22:00,(주말/휴일) 05:00 ~ 24:00</shop_operation>
+    <shop_industry>(주)대현프리몰</shop_industry>
+    <shop_surroundings>서울시 신청사 및 서울광장 연계_소공/을지입구 지하도상가와 연결_지하철 1,2호선 시청역과 원거리 연계</shop_surroundings>
+    <shop_direction>1호선 시청역 중간게이트 (2호선타는곳 방향 50m ⇒ 을지로지하보도 방향)_2호선 시청역 앞쪽(신당방면)게이트 (1호선타는곳 방향 100m ⇒ 세갈래길 중간 통로)</shop_direction>
+  </CityHall>
+
+
+  <InHyeon>
+    <shop_name>인현_지하 쇼핑센터</shop_name>
+    <shop_address>중구 을지로 지하12</shop_address>
+    <shop_scale>면적 4,871㎡ / 점포수 49개</shop_scale>
+    <shop_administration>(주)대현프리몰</shop_administration>
+    <shop_operation>개장 - 09:00 ~ 22:00_휴점일 - 일요일, 국경일 (일부 점포는 개점)_통로개방 - (주중)05:00 ~ 익일 22:00,(주말/휴일) 05:00 ~ 24:00</shop_operation>
+    <shop_industry>(주)대현프리몰</shop_industry>
+    <shop_surroundings>서울시 신청사 및 서울광장 연계_소공/을지입구 지하도상가와 연결_지하철 1,2호선 시청역과 원거리 연계</shop_surroundings>
+    <shop_direction>1호선 시청역 중간게이트 (2호선타는곳 방향 50m ⇒ 을지로지하보도 방향)_2호선 시청역 앞쪽(신당방면)게이트 (1호선타는곳 방향 100m ⇒ 세갈래길 중간 통로)</shop_direction>
+  </InHyeon>
+
+  <Sindang>
+    <shop_name>신당_지하 쇼핑센터</shop_name>
+    <shop_address>중구 퇴계로 85길 지하 56</shop_address>
+    <shop_scale>면적 5,058㎡ / 점포수 97개</shop_scale>
+    <shop_administration>서울시설공단</shop_administration>
+    <shop_operation>개장 : 09:00 ~ 23:00_휴 점 일 : 셋째주 일요일, 화요일 (50%씩 휴무)_통로개방 : 07:30 ~ 24:00</shop_operation>
+    <shop_industry>서울시설공단</shop_industry>
+    <shop_surroundings>신당동 중앙시장 내에 위치한 상가로서 주로 회집을 운영하고 있어, 가족 단위로 방문하시기 좋으며, 도심속 공예창작공방 ‘신당창작아케이드'가 위치한 곳입니다</shop_surroundings>
+    <shop_direction>1. 지하철로 오실 경우 : 2호선1,2출구 중앙시장 방향 150m_2. 버스 로 오실 경우: 2012,2013,2014,2015,202, 263,421번 신당역 중앙시장앞 하차후 중앙시장 방향 30m</shop_direction>
+  </Sindang>
+
+  <JongKak>
+    <shop_name>종각_지하 쇼핑센터</shop_name>
+    <shop_address>종로구 종로 지하73</shop_address>
+    <shop_scale>면적 4,724㎡ / 점포수 81개</shop_scale>
+    <shop_administration>종각지하도상가상인연합(주)</shop_administration>
+    <shop_operation>개장 : 10:00 ~ 22:00_휴 점 일 : 매월 셋째주 일요일_통로개방 : 05:00 ~ 24:00</shop_operation>
+    <shop_industry>종각지하도상가상인연합(주)</shop_industry>
+    <shop_surroundings>지하철 1호선_극장, 어학원, 피아노거리 등</shop_surroundings>
+    <shop_direction>1호선 종각역 9번, 10번, 11번, 12번 출구_서울 YMCA 옆 지하</shop_direction>
+  </JongKak>
+
+
+  <Jongro4>
+    <shop_name>종로4가_지하 쇼핑센터</shop_name>
+    <shop_address>종로구 창경궁로 지하81</shop_address>
+    <shop_scale>면적 2,997㎡ / 점포수 109개</shop_scale>
+    <shop_administration>종로4가마전교지하쇼핑타운(주)</shop_administration>
+    <shop_operation>개장 : 10:00 ~ 19:00_휴 점 일 : 매주 일요일_통로개방 : 07:00 ~ 22:00</shop_operation>
+    <shop_industry>종로4가마전교지하쇼핑타운(주)</shop_industry>
+    <shop_surroundings>광장시장 등_주로 귀금속 상가이며, 일 통행인구는 약 200여명에 불과하여 상권이 낙후_임차인이 주로 50대∼60대로 단골장사 및 변화기피 경향 등으로 상가침체</shop_surroundings>
+    <shop_direction>종로4가 광장시장 입구 청계천 배오개 다리옆</shop_direction>
+  </Jongro4>
+
+
+  <Majeon>
+    <shop_name>마전교_지하 쇼핑센터</shop_name>
+    <shop_address>종로구 동호로 지하398</shop_address>
+    <shop_scale>면적 1,210㎡ / 점포수 31개</shop_scale>
+    <shop_administration>종로4가마전교지하쇼핑타운(주)</shop_administration>
+    <shop_operation>개장 : 07:00 ~ 23:00_휴 점 일 : 매주 일요일_통로개방 : 06:00 ~ 23:00</shop_operation>
+    <shop_industry>종로4가마전교지하쇼핑타운(주)</shop_industry>
+    <shop_surroundings>종로와 청계천 사이에 위치한 상가로서 장식품, 공예소품, 조화 등을 판매하고 있습니다._- 종로와 청계천 사이에 위치, 일 통행인구는 약 1천여명으로 도매상가 성격_- 주업종은 수예, 털실, 조화(造花), 잡화로 불황민감 및 유동인구 감소 추세</shop_surroundings>
+    <shop_direction>종로5가역(1호선) 6번, 7번출구 방향_종로5가 광장시장 입구 옆</shop_direction>
+  </Majeon>
+
+
+  <ChongGye5>
+    <shop_name>청계5가_지하 쇼핑센터</shop_name>
+    <shop_address>중구 동호로 지하384</shop_address>
+    <shop_scale>면적 1,993㎡ / 점포수 44개</shop_scale>
+    <shop_administration>(주)청계5가쇼핑몰</shop_administration>
+    <shop_operation>개장 : 07:00 ~ 19:00_휴 점 일 : 매주 일요일_통로개방 : 24시간</shop_operation>
+    <shop_industry>(주)청계5가쇼핑몰</shop_industry>
+    <shop_surroundings>인근에 방산종합시장 있으며, 지하 쇼핑센터 내에는 인형, 실, 잡화 등 도매 업종으로 이루어져 있습니다._- 청계천과 을지로 사이 위치, 일 통행인구 약 5백명선이고 도매상가 성격_- 주요업종은 털실, 매듭, 수공예품 등 청계천 복원후 유동인구 급격 감소</shop_surroundings>
+    <shop_direction>방산종합시장 옆</shop_direction>
+  </ChongGye5>
+
+
+  <Jongoh>
+    <shop_name>종오_지하 쇼핑센터</shop_name>
+    <shop_address>종로구 종로 지하200</shop_address>
+    <shop_scale>면적 4,165㎡ / 점포수 69개</shop_scale>
+    <shop_administration>종오지하쇼핑센터(주)</shop_administration>
+    <shop_operation>개 장: 09:00 ~ 22:00_휴 점 일 : 마지막 주 일요일_통로개방 : 5:00 ~ 익일 1:00</shop_operation>
+    <shop_industry>종오지하쇼핑센터(주)</shop_industry>
+    <shop_surroundings>결혼준비를 위한 한복, 침구, 예물 등 혼수 전문업체가 모여 있음_- 종로5가역 연계상가로서 일 통행인구는 약 1만여명으로 중장년층이 다수임_- 주업종은 한복, 의류이고 지상상권 위축 및 횡단보도 등 유동인구 감소추세 (추후 중앙차로 설치시 유동인구 추가감소 예상)</shop_surroundings>
+    <shop_direction>종로5가역(1호선) 1번, 8번출구 방향 지하</shop_direction>
+  </Jongoh>
+
+
+  <DongDaeMun>
+    <shop_name>동대문_지하 쇼핑센터</shop_name>
+    <shop_address>종로구 율곡로 지하 308</shop_address>
+    <shop_scale>면적 2,152㎡ / 점포수 62개</shop_scale>
+    <shop_administration>(주)동대문지하쇼핑센터</shop_administration>
+    <shop_operation>개 장 : 09:00 ~ 22:00_휴 점 일 : 둘째, 넷째 주 화요일_통로개방 : 05:00 ~ 22:00</shop_operation>
+    <shop_industry>(주)동대문지하쇼핑센터</shop_industry>
+    <shop_surroundings>지하철 1,4호선과 연계된 상가로서 동대문의 특징인 한복, 이불, 커텐 등 혼수품을 주로 취급하고 있습니다.</shop_surroundings>
+    <shop_direction>1. 지하철로 오실 경우 : 1,4호선 7,8번 출입구방향 30m_2. 버 스로 오실 경우 : 201,2014,7212,260,270,407,370번 동대문종합시장(종로6가) 정류장 하차 000방향 100m</shop_direction>
+  </DongDaeMun>
+
+
+  <ChongGye6>
+    <shop_name>청계6가_지하 쇼핑센터</shop_name>
+    <shop_address>중구 장충단로 지하 280</shop_address>
+    <shop_scale>면적 1,535㎡ / 점포수 44개</shop_scale>
+    <shop_administration>(주)청계6가 지하쇼핑센터</shop_administration>
+    <shop_operation>개장 : 09:00 ~ 익일 05:00_휴 점 일 : 마지막 주 월요일_통로개방 : 24시간</shop_operation>
+    <shop_industry>(주)청계6가 지하쇼핑센터</shop_industry>
+    <shop_surroundings>최신 패션 의류를 판매하고 있는 청계6가 지하도상가는 밀리오레 상가 지하 및 맞은편 동대문 운동장 측과 직접 연결되어있어 이용시 이동에 편리합니다.</shop_surroundings>
+    <shop_direction>1. 지하철로 오실 경우 : ①④호선 동대문역8번 출구 ④⑤호선 동대문역사문화공원 14번출구_2. 버스로 오실 경우 : 간선 0212,2014,2112,2012 지선 100,101,201,260,270,271,370,721 105,152,261,420</shop_direction>
+  </ChongGye6>
+
+
+  <MyeongDong>
+    <shop_name>명동_지하 쇼핑센터</shop_name>
+    <shop_address>중구 남대문로 지하72</shop_address>
+    <shop_scale>면적 3,838㎡ / 점포수 60개</shop_scale>
+    <shop_administration>(주)명동지하쇼핑센터상인회</shop_administration>
+    <shop_operation>개장 : 09:00 ~ 22:00_휴 점 일 : 연중무휴_통로개방 : 24시간</shop_operation>
+    <shop_industry>(주)명동지하쇼핑센터상인회</shop_industry>
+    <shop_surroundings>롯데백화점 본점과 명동 대로를 잇는 쇼핑의 중심지 </shop_surroundings>
+    <shop_direction>지하철 : 을지로입구역(2호선), 7번 출구_버 스 : 롯데백화점 하차_- 간 선 : 100,143,151,152,202,261,262,405,500,501,701,702A,702B_- 지선 : 7017, 7021</shop_direction>
+  </MyeongDong>
+
+
+
+  <MyeongDongStation>
+    <shop_name>명동역_지하 쇼핑센터</shop_name>
+    <shop_address>중구 퇴계로 지하124</shop_address>
+    <shop_scale>면적 2,215㎡ / 점포수 70개</shop_scale>
+    <shop_administration>명동역지하도상가상인연합(주)</shop_administration>
+    <shop_operation>
+      개장 : 10:00 ~ 23:00_휴 점 일 : 연중무휴_통로개방 : 24시간
+    </shop_operation>
+    <shop_industry>명동역지하도상가상인연합(주)</shop_industry>
+    <shop_surroundings>지하철 명동역(4호선)과 바로 연계되어있는 상가로, 다양한 여성 의류를 취급하고 있습니다.</shop_surroundings>
+    <shop_direction>지하철 : 명동역(4호선), 4,5,6번 출구_버 스 : 명동입구 하차_- 간선 : 104, 263, 421, 507, 604_- 지선 : 7011</shop_direction>
+  </MyeongDongStation>
+
+
+
+  <Sogong>
+    <shop_name>소공_지하 쇼핑센터</shop_name>
+    <shop_address>중구 소공로 지하102</shop_address>
+    <shop_scale>면적 : 6,799㎡ / 점포수 145개</shop_scale>
+    <shop_administration>(주)소공쇼핑센터</shop_administration>
+    <shop_operation>개 장 : 10:00 ~ 22:00_휴 점 일 : 첫째, 셋째 일요일_통로개방 : 04:30 ~ 23:30</shop_operation>
+    <shop_industry>(주)소공쇼핑센터</shop_industry>
+    <shop_surroundings>30여년의 역사를 지닌 상가로 서울시청과 명동을 잇는 상가로, 주로 일본인 등 외국 관광객을 상대로 토산품, 민속공예품 등을 판매</shop_surroundings>
+    <shop_direction>지하철 : 시청역(1,2호선), 6번 출구</shop_direction>
+  </Sogong>
+
+
+
+  <NamDaeMun>
+    <shop_name>남대문_지하 쇼핑센터</shop_name>
+    <shop_address>중구 남대문로 지하14</shop_address>
+    <shop_scale>면적 3,831㎡ / 점포수 97개</shop_scale>
+    <shop_administration>(주)남대문지하도상가상인연합</shop_administration>
+    <shop_operation>개 장 : 09:00 ~ 22:00_휴 점 일 : 둘째, 넷째주 일요일_통로개방 : 05:00~23:00</shop_operation>
+    <shop_industry>(주)남대문지하도상가상인연합</shop_industry>
+    <shop_surroundings>남대문로 중앙에 위치해 있는 남대문 지하쇼핑센터는, 신세계백화점과 남대문상가 뒤쪽에 자리 잡고 있으며, 숭례문(남대문) 앞에서도 접근이 가능합니다.</shop_surroundings>
+    <shop_direction>1호선 시청역 7번 출구, 2호선 시청역 8번 출구(숭례문방향) 4호선 회현역 5번 출구 </shop_direction>
+  </NamDaeMun>
+
+
+  <HoeHyeon>
+    <shop_name>회현_지하 쇼핑센터</shop_name>
+    <shop_address>중구 소공로 지하58</shop_address>
+    <shop_scale>면적 9,031㎡ / 점포수 225개</shop_scale>
+    <shop_administration>(주)회현지하쇼핑센터</shop_administration>
+    <shop_operation>
+      개장 : 09:00 ~ 22:00_휴 점 일 : 매월 첫째, 셋째 일요일_통로개방 : 05:00 ~ 24:00
+    </shop_operation>
+    <shop_industry>(주)회현지하쇼핑센터</shop_industry>
+    <shop_surroundings>명동과 남대문시장을 잇는 길목에 위치하고 있는 회현상가는 신세계 백화점 및 주변 빌딩과 연결되어있습니다.</shop_surroundings>
+    <shop_direction>
+      4호선 회현역 1번출구(우리은행방향), 회현역 7번출구(신세계방향)_4호선 명동역 5번 출구 ⇒ 회현상가 4번(에스컬레이터 연결)
+    </shop_direction>
+  </HoeHyeon>
+
+
+  <Gangnam>
+    <shop_name>강남역_지하 쇼핑센터</shop_name>
+    <shop_address>강남구 강남대로 지하396</shop_address>
+    <shop_scale>면적 12,315㎡ / 점포수 214개</shop_scale>
+    <shop_administration>(주)강남역지하쇼핑센터</shop_administration>
+    <shop_operation>
+      개 장 시 간 : 10:00 ~ 22:00_통로개방 : 24시간_연중무휴(명절 일부제외)
+    </shop_operation>
+    <shop_industry>(주)강남역지하쇼핑센터</shop_industry>
+    <shop_surroundings>지하철 2호선 강남역 주변과 지하상가가 직접 연결되어 있으며, 통신전문상가와 패션1번가답게 패션 의류, 영캐쥬얼 전문매장밀집 지역</shop_surroundings>
+    <shop_direction></shop_direction>
+  </Gangnam>
+
+
+
+  <Jamsil>
+    <shop_name>잠실역_지하 쇼핑센터</shop_name>
+    <shop_address>송파구 올림픽로 지하265</shop_address>
+    <shop_scale>면적 8,445㎡ / 점포수 145개</shop_scale>
+    <shop_administration>(주)잠실역지하쇼핑센터</shop_administration>
+    <shop_operation>
+      개장 : 10:00 ~ 22:00_휴 점 일 : 매월 첫번째, 세번째 월요일_통로개방 : 24시간
+    </shop_operation>
+    <shop_industry>(주)잠실역지하쇼핑센터</shop_industry>
+    <shop_surroundings>저렴한 의류를 취급하는 점포가 대다수이며, 잠실역, 롯데백화점, 롯데월드와 인접하여 있어 젊은 층의 이용객이 많습니다. </shop_surroundings>
+    <shop_direction></shop_direction>
+  </Jamsil>
+
+
+
+  <GangNamTerminalPart1>
+    <shop_name>고속터미널_지하 쇼핑센터</shop_name>
+    <shop_address>서초구 신반포로 지하200</shop_address>
+    <shop_scale>면적 31,566㎡ / 점포수 624개</shop_scale>
+    <shop_administration>서울시설공단</shop_administration>
+    <shop_operation>
+      개장 : 10:00 ~ 22:00_통로개방 : 24시간
+    </shop_operation>
+    <shop_industry>서울시설공단</shop_industry>
+    <shop_surroundings>서울지하철 3호선과 7호선 고속터미널역과 전국 각 지역으로 출발하는 고속버스터미널이 연결돼 있는 상가</shop_surroundings>
+    <shop_direction>지하철 3, 7, 9호선</shop_direction>
+  </GangNamTerminalPart1>
+
+  <GangNamTerminalPart2>
+    <shop_name>고속터미널_지하 쇼핑센터</shop_name>
+    <shop_address>서초구 신반포로 지하200</shop_address>
+    <shop_scale>면적 31,566㎡ / 점포수 624개</shop_scale>
+    <shop_administration>서울시설공단</shop_administration>
+    <shop_operation>
+      개장 : 10:00 ~ 22:00_통로개방 : 24시간
+    </shop_operation>
+    <shop_industry>서울시설공단</shop_industry>
+    <shop_surroundings>서울지하철 3호선과 7호선 고속터미널역과 전국 각 지역으로 출발하는 고속버스터미널이 연결돼 있는 상가</shop_surroundings>
+    <shop_direction>지하철 3, 7, 9호선</shop_direction>
+  </GangNamTerminalPart2>
+
+  <GangNamTerminalPart3>
+    <shop_name>고속터미널_지하 쇼핑센터</shop_name>
+    <shop_address>서초구 신반포로 지하200</shop_address>
+    <shop_scale>면적 31,566㎡ / 점포수 624개</shop_scale>
+    <shop_administration>서울시설공단</shop_administration>
+    <shop_operation>
+      개장 : 10:00 ~ 22:00_통로개방 : 24시간
+    </shop_operation>
+    <shop_industry>서울시설공단</shop_industry>
+    <shop_surroundings>서울지하철 3호선과 7호선 고속터미널역과 전국 각 지역으로 출발하는 고속버스터미널이 연결돼 있는 상가</shop_surroundings>
+    <shop_direction>지하철 3, 7, 9호선</shop_direction>
+  </GangNamTerminalPart3>
+
+
+  <YeongDeungPoStation>
+    <shop_name>영등포역_지하 쇼핑센터</shop_name>
+    <shop_address>영등포구 경인로843</shop_address>
+    <shop_scale>면적 4,678㎡ / 점포수 76개</shop_scale>
+    <shop_administration>(주)영등포역쇼핑센터(02-3667-8681)</shop_administration>
+    <shop_operation>개장 : 10:00 ~ 22:00_휴 점 일 : 연중무휴_통로개방 : 24시간</shop_operation>
+    <shop_industry>(주)영등포역쇼핑센터(02-3667-8681)</shop_industry>
+    <shop_surroundings>지하철 1호선과 철도역이 바로 연계되어있는 상가로, 핸드폰 업체의 밀집으로 다양한 제품을 저렴하게 제공하고 있습니다.</shop_surroundings>
+    <shop_direction>지하철 : 영등포역(1호선) 역사 연결통로이용_버 스 : 영등포역 하차(중앙버스전용차선)_- 지선 : 5615, 5618, 6512, 6513, 6515_- 간선 : 160, 503, 600, 662_- 광역 : 2500_- 일반 : 11-1, 11-2, 301, 320</shop_direction>
+  </YeongDeungPoStation>
+
+
+
+  <YeongDeungPoRotary>
+    <shop_name>영등포 로터리_지하 쇼핑센터</shop_name>
+    <shop_address>영등포구 영중로 지하20 </shop_address>
+    <shop_scale>면적 6,325㎡ / 점포수 122개</shop_scale>
+    <shop_administration>(주)영등포로터리지하상인회쇼핑센터</shop_administration>
+    <shop_operation>개장 : 10:00 ~ 22:00_휴 점 일 : 연중무휴_통로개방 : 2번,3번,4번출구(24시간) 1번,5번출구(05:00~23:30)</shop_operation>
+    <shop_industry>(주)영등포로터리지하상인회쇼핑센터</shop_industry>
+    <shop_surroundings>지하철 1호선, 철도역_신세계백화점, 롯데백화점, 에쉐르</shop_surroundings>
+    <shop_direction>지하철 : 영등포역(1호선) 3번출구_버 스 : 신세계백화점 하차_- 지선 : 5616, 5625, 5714, 6628, 6629, 6630, 6631, 6637, 6640, 6654_- 간선 : 462, 605, 661, 670, 760_- 일반 : 2, 60, 60-1, 60-3, 69, 88_- 광역 : 9408_- 마을 : 영등포03번, 영등포04번</shop_direction>
+  </YeongDeungPoRotary>
+
+
+
+  <YeongDeungPoMarketNewtown>
+    <shop_name>영등포 시장/뉴타운_지하 쇼핑센터</shop_name>
+    <shop_address>영등포구 영등포로 지하221</shop_address>
+    <shop_scale>면적 3,637㎡ / 점포수 76개</shop_scale>
+    <shop_administration>(주)영등포시장지하쇼핑센터</shop_administration>
+    <shop_operation>개장 : 09:00, 12:00 ~ 21:00_휴 점 일 : 둘째, 넷째 주 화요일_통로개방 : 5번,6번출구(24시간) 1~4번,7~8번출구(05:00~23:30)</shop_operation>
+    <shop_industry>(주)영등포시장지하쇼핑센터</shop_industry>
+    <shop_surroundings>국내 최대의 홀복, 파티복, 무대의상 및 30년 전통의 중년 이후 정장 맞춤과 기성복 등 판매 </shop_surroundings>
+    <shop_direction>지하철 : 영등포시장(5호선) 3번출구_버 스 : 영등포시장 하차_- 지선 : 5012, 5612, 5616, 5620, 6514, 6629, 6638_- 간선 : 640, 641, 650, 661, 760_- 광역 : 9408_- 일반 : 2, 60-3, 88</shop_direction>
+  </YeongDeungPoMarketNewtown>
+</UnderShopBasicInfomation>
+

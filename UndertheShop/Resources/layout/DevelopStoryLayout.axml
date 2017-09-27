@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sv_DevelopView">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F6F6F6">
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#FFEAEA"
+                android:id="@+id/ll_DevelopTitle"
+                android:gravity="center_horizontal">
+                <LinearLayout
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:padding="15dp">
+                    <TextView
+                        android:id="@+id/tv_DevelopAppName"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Under The Shop"
+                        android:textSize="40dp"
+                        android:textColor="#5D5D5D" />
+                    <TextView
+                        android:id="@+id/tv_DevelopTitle"
+                        android:text="언더더샵 개발 이야기"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:textSize="20dp"
+                        android:textColor="#5D5D5D" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/DevelopShape"
+                android:layout_margin="7dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:text="* UTS App 이야기 *"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#5D5D5D"
+                    android:layout_marginBottom="5dp" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <TextView
+                    android:id="@+id/tv_DevelopBackground"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:textSize="15dp"
+                    android:textColor="#5D5D5D"
+                    android:text="- 지하상가 배치도를 볼 수 있어요 -"
+                    android:gravity="center"
+                    android:padding="5dp" />
+                <TextView
+                    android:id="@+id/tv_DevelopBackground"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:textSize="15dp"
+                    android:textColor="#5D5D5D"
+                    android:text="- 인근주차장 위치를 볼 수 있어요 -"
+                    android:gravity="center"
+                    android:padding="5dp" />
+                <TextView
+                    android:id="@+id/tv_DevelopBackground"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:textSize="15dp"
+                    android:textColor="#5D5D5D"
+                    android:text="- 문화행사일정을 체크할 수 있어요 -"
+                    android:gravity="center"
+                    android:padding="5dp" />
+                <TextView
+                    android:id="@+id/tv_DevelopBackground"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:textSize="15dp"
+                    android:textColor="#5D5D5D"
+                    android:text="- 지하철 도착시간을 알 수 있어요 -"
+                    android:gravity="center"
+                    android:padding="5dp" />
+                <TextView
+                    android:id="@+id/tv_DevelopBackground"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:textSize="15dp"
+                    android:textColor="#5D5D5D"
+                    android:text="- 트위터에서 나의 후기 및 별점을 볼 수 있어요 -"
+                    android:gravity="center"
+                    android:padding="5dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/DevelopShape"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp">
+                <TextView
+                    android:text="* 참여한 사람들 *"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#5D5D5D"
+                    android:id="@+id/textView1"
+                    android:layout_marginBottom="5dp" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="120dp"
+                        android:layout_weight="2"
+                        android:id="@+id/iv_Member1"
+                        android:layout_margin="10dp" />
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="5"
+                        android:layout_height="match_parent"
+                        android:layout_width="0dp">
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberName1"
+                            android:text="안현섭 (개발자)"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberEmail1"
+                            android:text="ocsarpo22@gmail.com"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="15dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="120dp"
+                        android:layout_weight="2"
+                        android:id="@+id/iv_Member2"
+                        android:layout_margin="10dp" />
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="5"
+                        android:layout_height="match_parent"
+                        android:layout_width="0dp">
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberName2"
+                            android:text="김창우 (개발자)"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberEmail2"
+                            android:text="god02850@naver.com"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="15dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="120dp"
+                        android:layout_weight="2"
+                        android:id="@+id/iv_Member3"
+                        android:layout_margin="10dp" />
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="5"
+                        android:layout_height="match_parent"
+                        android:layout_width="0dp">
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberName3"
+                            android:text="김은아 (개발자)"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberEmail3"
+                            android:text="nakim1215@hanmail.net"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="15dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="120dp"
+                        android:layout_weight="2"
+                        android:id="@+id/iv_Member4"
+                        android:layout_margin="10dp" />
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="5"
+                        android:layout_height="match_parent"
+                        android:layout_width="0dp">
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberName4"
+                            android:text="김혜양(기획자)"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberEmail4"
+                            android:text="hyeyammy_xo@naver.com"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="15dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="120dp"
+                        android:layout_weight="2"
+                        android:id="@+id/iv_Member5"
+                        android:layout_margin="10dp" />
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_weight="5"
+                        android:layout_height="match_parent"
+                        android:layout_width="0dp">
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberName5"
+                            android:text="주가은(디자이너)"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                        <TextView
+                            android:id="@+id/tv_DevelopMemberEmail5"
+                            android:text="ghju001@naver.com"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="15dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/DevelopShape"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp">
+                <TextView
+                    android:text="* 사용한 Tool *"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#5D5D5D"
+                    android:layout_marginBottom="5dp" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:minHeight="25px"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="120dp"
+                            android:id="@+id/iv_VSC"
+                            android:padding="20dp" />
+                        <TextView
+                            android:id="@+id/tv_DevelopUsingTool1"
+                            android:text="Visual Studio 2015 Community"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:gravity="center"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:id="@+id/tableLayout1">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="120dp"
+                            android:id="@+id/iv_Xamarin"
+                            android:padding="20dp" />
+                        <TextView
+                            android:id="@+id/tv_DevelopUsingTool2"
+                            android:text="Xamarin.Android"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:gravity="center"
+                            android:textSize="20dp"
+                            android:textColor="#5D5D5D" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/DevelopShape"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp">
+                <TextView
+                    android:text="* 참여한 API *"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#5D5D5D"
+                    android:layout_marginBottom="5dp" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:minHeight="25px"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:padding="8dp">
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="120dp"
+                            android:id="@+id/iv_SeoulLogo" />
+                        <TextView
+                            android:id="@+id/tv_iv_DevelopUsingAPI1"
+                            android:text="서울시 Open API"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="17dp"
+                            android:textColor="#5D5D5D"
+                            android:gravity="center"
+                            android:padding="10dp" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:padding="8dp">
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="120dp"
+                            android:id="@+id/iv_GoogleLogo" />
+                        <TextView
+                            android:id="@+id/tv_DevelopUsingAPI2"
+                            android:text="Google Map API"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textSize="17dp"
+                            android:textColor="#5D5D5D"
+                            android:gravity="center"
+                            android:padding="10dp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/DevelopShape"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="7dp">
+                <TextView
+                    android:text="* 소속 *"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:textSize="20dp"
+                    android:textColor="#5D5D5D"
+                    android:layout_marginBottom="5dp" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:minHeight="5px"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffffff" />
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="120dp"
+                        android:layout_weight="2"
+                        android:id="@+id/iv_belong"
+                        android:padding="30dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

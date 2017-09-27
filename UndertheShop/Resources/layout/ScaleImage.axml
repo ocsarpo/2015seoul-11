@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/fr">
+    <App5.ScaleImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@null"
+        android:id="@+id/AnimateImage"
+        android:background="@null" />
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/horizontalScrollView1">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="전체보기"
+                android:id="@+id/TV_ALL"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="ALL" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="패션의류"
+                android:id="@+id/TV_FASHION"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="FASHION_CLOTHES" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="쇼핑미용"
+                android:id="@+id/TV_BEAUTY"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="BEAUTY" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="인테리어"
+                android:id="@+id/TV_INTERIOR"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="INTERIOR" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="디지털가전"
+                android:id="@+id/TV_DIGITAL"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="DIGITAL_APPLIANCE" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="음식점"
+                android:id="@+id/TV_FOOD"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="FOOD" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="편의시설"
+                android:id="@+id/TV_CONVE"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="CONVENIENCE" />
+            <TextView
+                android:layout_width="80dp"
+                android:layout_height="40dp"
+                android:text="기타매장"
+                android:id="@+id/TV_OTHERS"
+                android:gravity="center"
+                android:background="#59000000"
+                android:textColor="#ff000000"
+                android:tag="OTHER" />
+        </LinearLayout>
+    </HorizontalScrollView>
+</FrameLayout>

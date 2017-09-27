@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu android:id="@+id/jongro_menu" xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/jongkak"
+           android:title="종각"/>
+  
+  <item android:id="@+id/jongro4"
+        android:title="종로4가" />
+
+  <item android:id="@+id/majeon"
+        android:title="마전교" />
+
+  <item android:id="@+id/chonggye5"
+        android:title="청계5가" />
+
+  <item android:id="@+id/jongoh"
+        android:title="종오" />
+
+  <item android:id="@+id/dongdaemoon"
+        android:title="동대문" />
+
+  <item android:id="@+id/chonggye6"
+        android:title="청계6가" />
+</menu>

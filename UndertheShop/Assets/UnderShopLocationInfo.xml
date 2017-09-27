@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UnderShopLocationInfo>
+  <Ulgiro4>
+    <ShopName>을지로 쇼핑센터</ShopName>
+    <ShopAddr>중구 을지로 지하883구역) 중구 을지로 지하1314구역) 중구 을지로 지하218)</ShopAddr>
+    <Shop_LAT>37.56681</Shop_LAT>
+    <Shop_LNG>127.002339</Shop_LNG>
+  </Ulgiro4>
+  
+  <Ulgiro3>
+    <ShopName>을지로 쇼핑센터</ShopName>
+    <ShopAddr>중구 을지로 지하883구역) 중구 을지로 지하1314구역) 중구 을지로 지하218)</ShopAddr>
+    <Shop_LAT>37.5661591</Shop_LAT>
+    <Shop_LNG>126.992475</Shop_LNG>
+  </Ulgiro3>
+
+  <UlgiEnterance>
+    <ShopName>을지입구 쇼핑센터</ShopName>
+    <ShopAddr>(중구 을지로 지하58)</ShopAddr>
+    <Shop_LAT>37.565921</Shop_LAT>
+    <Shop_LNG>126.982727</Shop_LNG>
+  </UlgiEnterance>
+
+  <CityHall>
+    <ShopName>시청광장 쇼핑센터</ShopName>
+    <ShopAddr>(중구 을지로 지하12)</ShopAddr>
+    <Shop_LAT>37.565751</Shop_LAT>
+    <Shop_LNG>126.978972</Shop_LNG>
+  </CityHall>
+
+  <InHyeon>
+    <ShopName>인현 쇼핑센터</ShopName>
+    <ShopAddr>(중구 마른내길 지하70)</ShopAddr>
+    <Shop_LAT>37.564204</Shop_LAT>
+    <Shop_LNG>126.995516</Shop_LNG>
+  </InHyeon>
+
+  <Sindang>
+    <ShopName>신당 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 퇴계로 85길 지하 56)</ShopAddr>
+    <Shop_LAT>37.568307</Shop_LAT>
+    <Shop_LNG>127.019347</Shop_LNG>
+  </Sindang>
+
+  <JongKak>
+    <ShopName>종각 쇼핑센터</ShopName>
+    <ShopAddr>(종로구 종로 지하73)</ShopAddr>
+    <Shop_LAT>37.57015</Shop_LAT>
+    <Shop_LNG>126.983628</Shop_LNG>
+  </JongKak>
+
+  <Jongro4>
+    <ShopName>종로4가 쇼핑센터</ShopName>
+    <ShopAddr>(종로구 창경궁로 지하81)</ShopAddr>
+    <Shop_LAT>37.570762</Shop_LAT>
+    <Shop_LNG>126.998563</Shop_LNG>
+  </Jongro4>
+
+  <Majeon>
+    <ShopName>마전교 쇼핑센터</ShopName>
+    <ShopAddr>(종로구 동호로 지하398)</ShopAddr>
+    <Shop_LAT>37.570694</Shop_LAT>
+    <Shop_LNG>127.001921</Shop_LNG>
+  </Majeon>
+
+  <ChongGye5>
+    <ShopName>청계5가 쇼핑센터</ShopName>
+    <ShopAddr>(중구 동호로 지하384)</ShopAddr>
+    <Shop_LAT>37.569317</Shop_LAT>
+    <Shop_LNG>127.002071</Shop_LNG>
+  </ChongGye5>
+
+  <Jongoh>
+    <ShopName>종오 지하쇼핑센터</ShopName>
+    <ShopAddr>(종로구 종로 지하200)</ShopAddr>
+    <Shop_LAT>37.570848</Shop_LAT>
+    <Shop_LNG>127.000022</Shop_LNG>
+  </Jongoh>
+
+  <DongDaeMun>
+    <ShopName>동대문 지하쇼핑센터</ShopName>
+    <ShopAddr>(종로구 율곡로 지하 308)</ShopAddr>
+    <Shop_LAT>37.570304</Shop_LAT>
+    <Shop_LNG>127.009635</Shop_LNG>
+  </DongDaeMun>
+
+  <ChongGye6>
+    <ShopName>청계6가 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 장충단로 지하 280)</ShopAddr>
+    <Shop_LAT>37.569408</Shop_LAT>
+    <Shop_LNG>127.009592</Shop_LNG>
+  </ChongGye6>
+
+  <MyeongDong>
+    <ShopName>명동 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 남대문로 지하72)</ShopAddr>
+    <Shop_LAT>37.563349</Shop_LAT>
+    <Shop_LNG>126.981997</Shop_LNG>
+  </MyeongDong>
+
+  <MyeongDongStation>
+    <ShopName>명동역 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 퇴계로 지하124)</ShopAddr>
+    <Shop_LAT>37.560797</Shop_LAT>
+    <Shop_LNG>126.986246</Shop_LNG>
+  </MyeongDongStation>
+
+  <Sogong>
+    <ShopName>소공 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 소공로 지하102)</ShopAddr>
+    <Shop_LAT>37.563621</Shop_LAT>
+    <Shop_LNG>126.979852</Shop_LNG>
+  </Sogong>
+
+  <NamDaeMun>
+    <ShopName>남대문 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 남대문로 지하14)</ShopAddr>
+    <Shop_LAT>37.560598</Shop_LAT>
+    <Shop_LNG>126.976762</Shop_LNG>
+  </NamDaeMun>
+
+  <HoeHyeon>
+    <ShopName>회현 지하쇼핑센터</ShopName>
+    <ShopAddr>(중구 소공로 지하58)</ShopAddr>
+    <Shop_LAT>37.560444</Shop_LAT>
+    <Shop_LNG>126.982105</Shop_LNG>
+  </HoeHyeon>
+
+  <Gangnam>
+    <ShopName>강남역 지하쇼핑센터</ShopName>
+    <ShopAddr>(강남구 강남대로 지하396)</ShopAddr>
+    <Shop_LAT>37.49794199999999</Shop_LAT>
+    <Shop_LNG>127.02762099999995</Shop_LNG>
+  </Gangnam>
+
+  <Jamsil>
+    <ShopName>잠실역 지하쇼핑센터</ShopName>
+    <ShopAddr>(송파구 올림픽로 지하265)</ShopAddr>
+    <Shop_LAT>37.513342</Shop_LAT>
+    <Shop_LNG>127.10015499999997</Shop_LNG>
+  </Jamsil>
+  
+  <GangNamTerminalPart1>
+    <ShopName>강남터미널 지하쇼핑센터</ShopName>
+    <ShopAddr>(서초구 신반포로 지하200)</ShopAddr>
+    <Shop_LAT>37.502326</Shop_LAT>
+    <Shop_LNG>127.004169</Shop_LNG>
+  </GangNamTerminalPart1>
+
+  <GangNamTerminalPart2>
+    <ShopName>강남터미널 지하쇼핑센터</ShopName>
+    <ShopAddr>(서초구 신반포로 지하200)</ShopAddr>
+    <Shop_LAT>37.503446</Shop_LAT>
+    <Shop_LNG>127.005996</Shop_LNG>
+  </GangNamTerminalPart2>
+
+  <GangNamTerminalPart3>
+    <ShopName>강남터미널 지하쇼핑센터</ShopName>
+    <ShopAddr>(서초구 신반포로 지하200)</ShopAddr>
+    <Shop_LAT>37.504718</Shop_LAT>
+    <Shop_LNG>127.010287</Shop_LNG>
+  </GangNamTerminalPart3>
+
+  <YeongDeungPoStation>
+    <ShopName>영등포역 지하쇼핑센터</ShopName>
+    <ShopAddr>(영등포구 경인로843)</ShopAddr>
+    <Shop_LAT>37.516627</Shop_LAT>
+    <Shop_LNG>126.906552</Shop_LNG>
+  </YeongDeungPoStation>
+
+  <YeongDeungPoRotary>
+    <ShopName>영등포로터리 지하쇼핑센터</ShopName>
+    <ShopAddr>(영등포구 영중로 지하20)</ShopAddr>
+    <Shop_LAT>37.518567</Shop_LAT>
+    <Shop_LNG>126.905479</Shop_LNG>
+  </YeongDeungPoRotary>
+
+  <YeongDeungPoMarketNewtown>
+    <ShopName>영등포시장 지하쇼핑센터</ShopName>
+    <ShopAddr>(영등포구 영등포로 지하)</ShopAddr>
+    <Shop_LAT>37.519588</Shop_LAT>
+    <Shop_LNG>126.90608</Shop_LNG>
+  </YeongDeungPoMarketNewtown>
+
+</UnderShopLocationInfo>
+

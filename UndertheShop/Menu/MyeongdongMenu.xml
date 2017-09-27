@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu android:id="@+id/myeongdong_menu" xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/myeongdong"
+           android:title="명동"/>
+  <item android:id="@+id/myeongdongstation"
+        android:title="명동역" />
+  <item android:id="@+id/namdaemun"
+        android:title="남대문" />
+  <item android:id="@+id/sogong"
+        android:title="소공" />
+  <item android:id="@+id/hoehyeon"
+        android:title="회현" />
+</menu>

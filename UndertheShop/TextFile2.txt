@@ -1,0 +1,45 @@
+﻿
+패션의류 기타매장 디지털/가전 쇼핑미용 음식점 인테리어 편의시설
+
+
+DIGITAL_APPLIANCE, FASHION_CLOTHES, BEAUTY,
+ CONVENIENCE, FOOD , OTHER, INTERIOR
+ 
+
+ 
+      <LocalNam></LocalNam>
+      <ShopName></ShopName>
+      <Category></Category>
+	  <PointXxy></PointXxy>
+      <PointYxy></PointYxy>
+
+<LocalNam>
+<ShopInfo> <LocalNam>
+
+디지털/가전</Category>
+디지털/가전</Category>   <EngCategory>DIGITAL_APPLIANCE</EngCategory>
+
+기타매장</Category>
+기타매장</Category>  <EngCategory>OTHER</EngCategory>
+
+패션의류</Category>
+패션의류</Category>  <EngCategory>FASHION_CLOTHES</EngCategory>
+
+쇼핑미용</Category>
+쇼핑미용</Category>     <EngCategory>BEAUTY</EngCategory>
+
+음식점</Category>
+음식점</Category> <EngCategory>FOOD</EngCategory>
+
+편의시설</Category>
+편의시설</Category>  <EngCategory>CONVENIENCE</EngCategory>
+
+인테리어</Category>
+인테리어</Category>  <EngCategory>INTERIOR</EngCategory>
+
+</PointY>
+</PointY> <IdentificationNumber></IdentificationNumber>
+
+</IdentificationNumber>
+</IdentificationNumber> </ShopInfo>
+

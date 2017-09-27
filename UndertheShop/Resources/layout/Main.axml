@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:id="@+id/LinearLayout1"
+    android:gravity="center_vertical"
+    android:background="#FFEAEA">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:id="@+id/linearLayout1">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:id="@+id/EDT_SEARCH"
+            android:textColor="#5d5d5d" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="검색"
+            android:id="@+id/BTN_SEARCH"
+            android:background="@null"
+            android:textColor="#5d5d5d" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_weight="8"
+        android:id="@+id/linearLayout2">
+        <TableLayout
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout1">
+            <TableRow
+                android:id="@+id/tableRow1"
+                android:layout_gravity="center"
+                android:gravity="center">
+                <ImageView
+                    android:layout_column="0"
+                    android:id="@+id/BTN_ULGIRO"
+                    android:layout_height="110.7dp"
+                    android:layout_width="113.1dp"
+                    android:tag="ULGIRO" />
+                <ImageView
+                    android:layout_column="1"
+                    android:id="@+id/BTN_JONGRO"
+                    android:layout_height="110.6dp"
+                    android:layout_width="113.8dp"
+                    android:tag="JONGRO" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow2"
+                android:gravity="center">
+                <ImageView
+                    android:layout_column="0"
+                    android:id="@+id/BTN_MYENGDONG"
+                    android:layout_height="110.6dp"
+                    android:layout_width="113.0dp"
+                    android:tag="MYENGDONG" />
+                <ImageView
+                    android:layout_column="1"
+                    android:id="@+id/BTN_GANGNAM"
+                    android:layout_height="110.0dp"
+                    android:layout_width="113.0dp"
+                    android:tag="GANGNAM" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/tableRow3"
+                android:gravity="center">
+                <ImageView
+                    android:layout_column="0"
+                    android:id="@+id/BTN_TERMINAL"
+                    android:layout_height="110.0dp"
+                    android:layout_width="113.0dp"
+                    android:tag="TERMINAL" />
+                <ImageView
+                    android:layout_column="1"
+                    android:id="@+id/BTN_YEONGDEONGPO"
+                    android:layout_height="110.0dp"
+                    android:layout_width="113.0dp"
+                    android:tag="YEONGDEONGPO" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:id="@+id/linearLayout3">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:id="@+id/BTN_BOOKMARK">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/star1291"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/imageView1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MY 즐겨찾기"
+                android:gravity="center"
+                android:textColor="#5d5d5d"
+                android:id="@+id/textView1" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:id="@+id/BTN_EVENT">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/calendar701"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/imageView2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="문화행사일정"
+                android:gravity="center"
+                android:textColor="#5d5d5d"
+                android:id="@+id/textView2" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:id="@+id/BTN_DEVELOP">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/inspiration11"
+                android:layout_marginBottom="5dp"
+                android:id="@+id/imageView3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="개발이야기"
+                android:gravity="center"
+                android:textColor="#5d5d5d"
+                android:id="@+id/textView3" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

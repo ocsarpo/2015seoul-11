@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/calendarBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:padding="5dp"
+    android:id="@+id/ll_CalendarElement">
+  <LinearLayout
+      android:orientation="horizontal"
+      android:layout_weight="1"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/ll_TopElement">
+    <TextView
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/tv_DateElement" />
+    <TextView
+        android:text=""
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/tv_NoDataElement1" />
+  </LinearLayout>
+  <LinearLayout
+      android:orientation="horizontal"
+      android:layout_weight="0.9"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/ll_BottomElement">
+    <TextView
+        android:text=""
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/tv_NoDataElement2" />
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/iv_CheckElement" />
+  </LinearLayout>
+</LinearLayout>

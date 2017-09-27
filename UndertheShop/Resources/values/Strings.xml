@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">지하상가정보어플</string>
+  <string name="UnderShopLayout">지하상가배치도</string>
+  <string name="ParkingLotInfo">인근 공영주차장</string>
+  <string name="SaleKind">업종 :</string>
+  <string name="MyRating">내가 준 점수 :</string>
+  <string name="MyComment">후기 :</string>
+  <string name="UnderShopdddd">지하상가)</string>
+  <string name="ActionBarComment">왼쪽을 끌어서 지역이동을 할 수 있습니다</string>
+  <string name="UnderMapComment">배치도를 확대할 수 있고 칸을 터치하여 세부 정보를 확인 할 수 있습니다.</string>
+  <string name="TwitSharingComment">트윗 성공!</string>
+  <string name="acquireLogin">트위터 로그인창으로 이동합니다</string>
+  <string name="authfail">로그인에 실패하여 상점정보화면으로 이동합니다.</string>
+  <string name="ListViewItemLongClickHeader">선택하기</string>
+  <string name="mapLayout">상점 위치 보기</string>
+  <string name="shopinfo">상점 정보 보기</string>
+  <string name="station">전철역</string>
+  <string name="rest">화장실</string>
+  <string name="gateway">출구</string>
+  <string name="move">이동</string>
+  <string name="searchAlert">검색어를 입력해주세요</string>
+  <string name="InternetCheck">인터넷 연결 확인</string>
+  <string name="InternetCheckMessage">인터넷이 연결이 필요한 서비스입니다.</string>
+  <string name="confirm">확인</string>
+  <string name="exit">취소</string>
+
+  <string name="sogonddong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/21/소공동</string>
+  <string name="kawncheldong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/32/관철동</string>
+  <string name="sanlimdong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/66/산림동</string>
+  <string name="inhyendong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/244/인현동</string>
+  <string name="jukyodong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/35/주교동</string>
+  <string name="bangsandong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/75/방산동</string>
+  <string name="seosomundong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/1/서소문</string>
+  <string name="taepyeongro">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/36/태평로</string>
+  <string name="yeekhawndong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/13/예관동</string>
+  <string name="chungmuro">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/20/충무로</string>
+  <string name="heongindong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/19/흥인동</string>
+  <string name="sangwangsipli">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/21/상왕십리</string>
+
+  <string name="insadong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/16/인사동</string>
+
+  <string name="inoedong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/8/인의동</string>
+  <string name="hunjeongdong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/7/훈정동</string>
+  <string name="yejidong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/46/예지동</string>
+  <string name="bongikdong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/48/봉익동</string>
+
+
+  <string name="hoehyeondong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/35/회현동</string>
+  <string name="hoehyeondong2ga">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/1/회현동2가</string>
+  <string name="namchangdong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/46/남창동</string>
+  <string name="chungmuro1">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/19/충무로1가</string>
+
+  <string name="jongro5">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/32/종로5가</string>
+  <string name="jongro6">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/77/종로6가</string>
+  <string name="eulgiro6">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/49/을지로6가</string>
+  <string name="changsindong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/83/창신동</string>
+
+  <string name="jegidong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/315/제기동</string>
+  <string name="namdaemoonro4">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/59/남대문로4가</string>
+  <string name="bongraedong1">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/23/봉래동1가</string>
+
+  <string name="namdaemoonro3">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/32/남대문로3가</string>
+
+  <string name="banpodong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/46/반포동</string>
+  <string name="sincheondong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/129/신천동</string>
+  <string name="yeoksamdong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/16/역삼동</string>
+  <string name="seochodong">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/42/서초동</string>
+
+
+  <string name="yeongdeungpo">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/100/영등포동</string>
+  <string name="yeongdeungpo1">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/1/영등포동1가</string>
+  <string name="yeongdeungpo4">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/1/영등포동4가</string>
+  <string name="yeongdeungpo3">http://openapi.seoul.go.kr:8088/6f4a4e4d6d706f7338344a464d494c/xml/SearchParkingInfo/1/34/영등포동3가</string>
+
+
+
+
+
+
+</resources>
